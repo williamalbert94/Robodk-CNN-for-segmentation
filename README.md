@@ -16,4 +16,7 @@ Python train_code.py --id_gpu 0 --size 512 --stride 0.11 --classes 12 --model_na
 * `epochs`(int): Train Epochs. 
 * `batch`(int): Batch size. 
 
+## Parâmetros:
+
+![alt text](https://github.com/williamalbert94/Robodk-CNN-for-segmentation/tree/main/Example/pngegg.png)
 
