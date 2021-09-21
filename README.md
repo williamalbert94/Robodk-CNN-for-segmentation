@@ -1,4 +1,9 @@
+
 # Robodk-CNN-for-segmentation
+<h3 align="center">
+  <img src="Example/pngegg.png" width="300">
+</h3>
+
 This repository presents a dataset created through the use of robodk software, all this for the segmentation of tools and elements in a workstation for a robotic arm.
 
 # Train code
@@ -16,9 +21,6 @@ Python train_code.py --id_gpu 0 --size 512 --stride 0.11 --classes 12 --model_na
 * `epochs`(int): Train Epochs. 
 * `batch`(int): Batch size. 
 
-<h3 align="center">
-  <img src="Example/pngegg.png" width="300">
-</h3>
 
 
 
